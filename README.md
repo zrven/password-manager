@@ -13,11 +13,11 @@ Current base version supports
 - Support day night mode
 
 ## Screenshots
-![image] https://user-images.githubusercontent.com/8434552/102729875-be2a6b00-42ef-11eb-8e18-2a3ad7853a99.png
-![image] https://user-images.githubusercontent.com/8434552/102729930-f16cfa00-42ef-11eb-89c6-e9a86cdc7247.png
-![image] https://user-images.githubusercontent.com/8434552/102729932-f2059080-42ef-11eb-8991-b3dccc0ef757.png
-![image] https://user-images.githubusercontent.com/8434552/102730032-65a79d80-42f0-11eb-85ea-4a7e93025285.png
-![image] https://user-images.githubusercontent.com/8434552/102730033-66403400-42f0-11eb-92ec-6a4289af0248.png
+![signin](https://user-images.githubusercontent.com/8434552/102729875-be2a6b00-42ef-11eb-8e18-2a3ad7853a99.png)
+![feed](https://user-images.githubusercontent.com/8434552/102729930-f16cfa00-42ef-11eb-89c6-e9a86cdc7247.png)
+![account](https://user-images.githubusercontent.com/8434552/102729932-f2059080-42ef-11eb-8991-b3dccc0ef757.png)
+![nighmodeAccount](https://user-images.githubusercontent.com/8434552/102730032-65a79d80-42f0-11eb-85ea-4a7e93025285.png)
+![nightmodeModify](https://user-images.githubusercontent.com/8434552/102730033-66403400-42f0-11eb-92ec-6a4289af0248.png)
 
 ## Development
 
