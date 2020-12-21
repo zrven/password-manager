@@ -1,16 +1,16 @@
 # password-manager
 
-A simple password manager app for iOS and Android developed in React Native. Take control of your passwords without relying on external entities. It allows a user to store and retrieve passwords with AES encryption. The current version works in a single device without any external calls. 
+A simple password manager app for iOS and Android that has been developed in React Native. All data is stored and retrieved using highly secure AES encryption. The current version works only in a single device and doesn't make any external calls. 
 
 This repository contains full source code of the Password Manager. Welcome to contribute to the source code.
 
 Current base version supports
 
+- Manage user (Signup, Signout, Remove User)
 - Manage accounts (Add, Modify, Delete)
-- Encrypt and add accounts to vault with user provided token
-- Manager user (Signup, Signout, Remove User)
-- Stores encrypted data in local storage
-- Support day night mode
+- Encrypt account data to vault with user provided token
+- Stores and retrieves encrypted data from local storage
+- Support day/night mode
 
 ## Screenshots
 ![signin](https://user-images.githubusercontent.com/8434552/102729875-be2a6b00-42ef-11eb-8e18-2a3ad7853a99.png)
@@ -31,4 +31,3 @@ npx react-native run-ios
 ## Production
 
 Modify source code by moving the vault from local storage to some other data store before using in app.
-
